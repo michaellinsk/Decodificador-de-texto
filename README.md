@@ -1,5 +1,5 @@
 # Projeto de Decodificador de Texto
-- ![Pagina Inicial do projeto](./img/paginainicial.png)
+<img src="./img/home.png">
 
 ## Descrição
 
