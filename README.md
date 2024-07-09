@@ -1,5 +1,5 @@
 # Projeto de Decodificador de Texto
-- ![Logo do Projeto](./img/paginainicial.png)
+- ![Pagina Inicial do projeto](./img/paginainicial.png)
 
 ## Descrição
 
