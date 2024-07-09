@@ -1,5 +1,5 @@
 # Projeto de Decodificador de Texto
-![Logo do Projeto](./img/Frame%206.png)
+- ![Logo do Projeto](./img/paginainicial.png)
 
 ## Descrição
 
@@ -11,7 +11,6 @@ Este é um projeto simples de criptografia e descriptografia de texto. Ele permi
 - **Descriptografia**: Reverte o texto criptografado de volta aos caracteres originais.
 - **Copiar Texto**: Permite copiar o texto resultante para a área de transferência.
 
-- ![Logo do Projeto](./img/paginainicial.png)
 
 ## Estrutura do Projeto
 
